@@ -10,7 +10,7 @@ Each practical includes source code and its corresponding output screenshot.
 ### ✅ Practical 1: Basic Data Types in Kotlin
 - Create and display variables of different data types, including Integer, Double, Float, Long, Short, Byte, Char, Boolean, and String.
 - Demonstrates usage of primitive data types.
-- ![Output](<practical1.png/>
+- ![Output](<screenshots/practical1.png/>
 )
 
 ### ✅ Practical 2: Type Conversion in Kotlin
