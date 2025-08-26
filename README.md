@@ -16,12 +16,12 @@ Each practical includes source code and its corresponding output screenshot.
 ### ✅ Practical 2: Type Conversion in Kotlin
 - Perform type conversions such as Integer to Double, String to Integer, and String to Double.
 - Demonstrates type casting and conversions.
-- ![Output](Screenshots/practical2.png)
+- ![Output](Screenshot/practical2.png/)
 
 ### ✅ Practical 3: Student Data Program
 - Input and display data of students, including their name, enrolment no, branch,etc.
 - Prints student details using variables & string interpolation.
-- ![Output](Screenshots/practical3.png)
+- ![Output](Screenshots/practical3.png/)
 
 ### ✅ Practical 4: Odd/Even Number Check
 - Determine whether a number is odd or even using control flow within println() method.
