@@ -21,7 +21,7 @@ Each practical includes source code and its corresponding output screenshot.
 ### ✅ Practical 3: Student Data Program
 - Input and display data of students, including their name, enrolment no, branch,etc.
 - Prints student details using variables & string interpolation.
-- ![Output](Screenshots/practical3.png/)
+- ![Output](Screenshot/practical3.png/)
 
 ### ✅ Practical 4: Odd/Even Number Check
 - Determine whether a number is odd or even using control flow within println() method.
